@@ -1,0 +1,35 @@
+======================================================================
+Q-LEARNING TABULAR — 20000 episodios
+======================================================================
+Episode 2000/20000 | Avg Reward: -199.94 | Epsilon: 0.3678 | States visited: 263
+Episode 4000/20000 | Avg Reward: -191.92 | Epsilon: 0.1353 | States visited: 292
+Episode 6000/20000 | Avg Reward: -172.95 | Epsilon: 0.0497 | States visited: 298
+Episode 8000/20000 | Avg Reward: -156.80 | Epsilon: 0.0183 | States visited: 298
+Episode 10000/20000 | Avg Reward: -153.88 | Epsilon: 0.0100 | States visited: 299
+Episode 12000/20000 | Avg Reward: -147.31 | Epsilon: 0.0100 | States visited: 299
+Episode 14000/20000 | Avg Reward: -157.31 | Epsilon: 0.0100 | States visited: 299
+Episode 16000/20000 | Avg Reward: -151.93 | Epsilon: 0.0100 | States visited: 299
+Episode 18000/20000 | Avg Reward: -145.77 | Epsilon: 0.0100 | States visited: 300
+Episode 20000/20000 | Avg Reward: -120.07 | Epsilon: 0.0100 | States visited: 300
+Saved Q-Learning agent to saves/qlearning_mountaincar.pkl
+
+-> -113.18 de media, 100/100 llegan a la bandera (148s)
+
+======================================================================
+DQN — 2500 episodios
+======================================================================
+Episode 250/2500 | Avg Reward: -198.64 | Epsilon: 0.2856 | Buffer: 49661
+Episode 500/2500 | Avg Reward: -195.17 | Epsilon: 0.0816 | Buffer: 98454
+Episode 750/2500 | Avg Reward: -185.05 | Epsilon: 0.0233 | Buffer: 100000
+Episode 1000/2500 | Avg Reward: -166.53 | Epsilon: 0.0100 | Buffer: 100000
+Episode 1250/2500 | Avg Reward: -130.75 | Epsilon: 0.0100 | Buffer: 100000
+Episode 1500/2500 | Avg Reward: -123.39 | Epsilon: 0.0100 | Buffer: 100000
+Episode 1750/2500 | Avg Reward: -137.90 | Epsilon: 0.0100 | Buffer: 100000
+Episode 2000/2500 | Avg Reward: -127.17 | Epsilon: 0.0100 | Buffer: 100000
+Episode 2250/2500 | Avg Reward: -147.76 | Epsilon: 0.0100 | Buffer: 100000
+Episode 2500/2500 | Avg Reward: -140.95 | Epsilon: 0.0100 | Buffer: 100000
+Saved DQN agent to saves/dqn_mountaincar.pt
+
+-> -106.43 de media, 100/100 llegan a la bandera (1258s)
+
+Resultados guardados en results/

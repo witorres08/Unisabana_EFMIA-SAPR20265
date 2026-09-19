@@ -1,0 +1,29 @@
+{
+  "qlearning": {
+    "recompensa_media": -113.18,
+    "recompensa_std": 22.041497226821956,
+    "recompensa_mejor": -88.0,
+    "recompensa_peor": -180.0,
+    "pasos_medios": 113.18,
+    "exitos": 100,
+    "n_episodios": 100,
+    "episodios_entrenamiento": 20000,
+    "tiempo_entrenamiento_s": 147.8,
+    "estados_visitados": 300,
+    "estados_posibles": 400,
+    "parametros": 900
+  },
+  "dqn": {
+    "recompensa_media": -106.43,
+    "recompensa_std": 8.148932445418849,
+    "recompensa_mejor": -86.0,
+    "recompensa_peor": -114.0,
+    "pasos_medios": 106.43,
+    "exitos": 100,
+    "n_episodios": 100,
+    "episodios_entrenamiento": 2500,
+    "tiempo_entrenamiento_s": 1258.2,
+    "parametros": 17283,
+    "explore_repeat": 20
+  }
+}
