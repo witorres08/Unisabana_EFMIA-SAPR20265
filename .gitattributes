@@ -1,0 +1,13 @@
+# Normaliza los finales de línea: LF en el repositorio, sea cual sea el sistema.
+# Sin esto, Git para Windows convierte a CRLF al hacer checkout y cualquier
+# herramienta que escriba en LF marca el archivo entero como modificado.
+* text=auto
+
+# Binarios: Git no debe intentar normalizarlos nunca.
+*.png binary
+*.jpg binary
+*.pdf binary
+*.npy binary
+*.pt  binary
+*.pkl binary
+*.ipynb binary
