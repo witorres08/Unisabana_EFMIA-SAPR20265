@@ -51,13 +51,13 @@ estabilidad, velocidad de aprendizaje, ventajas, limitaciones y dificultad de im
 
 ### Q-Learning tabular
 
-<!-- ![Esquema del entrenamiento de Q-Learning](docs/esquema_qlearning.png) -->
+![Esquema del entrenamiento de Q-Learning](docs/esquema_qlearning.png)
 
 *(pendiente: esquema propio del ciclo estado → acción → recompensa → actualización)*
 
 ### DQN
 
-<!-- ![Esquema del entrenamiento de DQN](docs/esquema_dqn.png) -->
+![Esquema del entrenamiento de DQN](docs/esquema_dqn.png)
 
 *(pendiente: esquema propio con replay buffer, red target y actualización de Bellman)*
 
