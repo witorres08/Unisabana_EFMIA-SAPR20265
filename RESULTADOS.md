@@ -1,6 +1,6 @@
 # Q-Learning tabular vs. DQN en MountainCar-v0
 
-**William Mauricio Torres** · Maestría en Inteligencia Artificial, Universidad de La Sabana
+**Grupo 8** · Maestría en Inteligencia Artificial, Universidad de La Sabana
 Simulación y Aprendizaje por Refuerzo — Unidad 03
 
 Este documento corresponde al **Paso 4** de la actividad. Todos los números salen de
